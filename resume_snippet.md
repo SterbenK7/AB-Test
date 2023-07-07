@@ -2,7 +2,7 @@
 
 - Conducted hypothesis testing to evaluate the key metric of the Instacart shopper hiring funnel, validating the effectiveness of initiating background checks earlier.
 
-- Developed executable plans based on comprehensive shopper hiring analysis, identifying bottlenecks and extracting valuable insights using cutting-edge tools such as XX.
+- Developed executable plans based on comprehensive shopper hiring analysis, identifying bottlenecks and extracting valuable insights using cutting-edge tools such as SQL.
 
 - Defined a success metric for the experiment and evaluated the treatment effect using Conversion Rate (CVR) and Cost Per Acquisition (CPA) metrics, employing Z scores for statistical analysis.
 
